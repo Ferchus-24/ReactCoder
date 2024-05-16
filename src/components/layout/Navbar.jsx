@@ -5,12 +5,11 @@ export const Navbar = () => {
     <div>
       <h3>LL</h3>
       <ul>
-        <li>Ficción y Literatura</li>
-        <li>Ingeniería, Técnica y Ciencias Exactas</li>
-        <li>Infantil y Juvenil</li>
-        <li>Humanidades</li>
+        <li>Agente</li>
+        <li>Consulta de Asistencia</li>
+        <li>Inasistencias</li>
       </ul>
-      <CartWidget />
+      {/* <CartWidget /> */}
     </div>
   );
 };
